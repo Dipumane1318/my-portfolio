@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [my_portfolio](https://dipak-portfolio-git-vercel-react-29b46b-dipumane1318s-projects.vercel.app).
 
 ```bash
 npm run build   # production build
